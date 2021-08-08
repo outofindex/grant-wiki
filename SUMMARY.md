@@ -8,5 +8,5 @@
 
 ## Guides
 
-* [Quirks](quirks/index.md)
+* [Quirks](quirks/quirks.md)
   * [Apple](quirks/apple.md)

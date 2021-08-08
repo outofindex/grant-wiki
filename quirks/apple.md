@@ -1,6 +1,7 @@
 
+## Generate Client Secret
+
 ```js
-// generate client secret
 var jws = require('jws')
 
 exports.sign = ({client_id, key_id, team_id, private_key}) => {
@@ -8,7 +9,7 @@ exports.sign = ({client_id, key_id, team_id, private_key}) => {
 
   var options = {
     header: {
-      typ: 'JWT', // does it work with this one ?
+      typ: 'JWT',
       alg: 'ES256',
       kid: key_id,
     },
