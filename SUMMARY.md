@@ -8,7 +8,5 @@
 
 ## Guides
 
-<!-- * [example](guides/first-level.md)
-* [example](guides/first-level.md)
-  * [example](guides/nested.md)
-* [example](guides/first-level.md) -->
+* [Quirks](quirks/index.md)
+  * [Apple](quirks/apple.md)
