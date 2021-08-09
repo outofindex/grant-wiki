@@ -1,12 +1,9 @@
 
 # Table of contents
 
-## Getting Started
-
-<!-- * [Getting Started](README.md) -->
-* [What is Grant](basics/what-is-grant.md)
-* [Articles](basics/articles.md)
-* [FAQ](basics/faq.md)
+* [What is Grant](README.md)
+  * [Articles](basics/articles.md)
+  * [FAQ](basics/faq.md)
 
 ## Guides
 
