@@ -2,8 +2,8 @@
 # Table of contents
 
 * [What is Grant](README.md)
-  * [Articles](basics/articles.md)
-  * [FAQ](basics/faq.md)
+* [Articles](basics/articles.md)
+* [FAQ](basics/faq.md)
 
 ## Guides
 
