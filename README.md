@@ -5,8 +5,8 @@ For that reason people invented OAuth, a framework to delegate the login form an
 
 [Grant] is a tool to help you login using OAuth to any third-party provider, and receive back the user's identity information and/or credentials needed for accessing that provider on behalf of the user.
 
-With a few lines of static JSON configuration you can instantiate Grant on any of the most popular HTTP server frameworks for Node.js, and on any of the most popular Serverless Cloud Providers.
+With only a few lines of static JSON configuration you can instantiate Grant on any of the most popular HTTP server frameworks for Node.js, and on any of the most popular Serverless Cloud Providers.
 
-Lastly, Grant can aslo be deployed as a standalone service and it can be configured dynamically over HTTP from any other backend and programming language.
+Grant can be fully configured dynamically over HTTP, meaning that you can host it as a standalone service and integrate it with any other backend service or programming language.
 
   [grant]: https://github.com/simov/grant
