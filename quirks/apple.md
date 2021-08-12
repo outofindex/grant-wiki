@@ -1,5 +1,5 @@
 
-## Generate Client Secret
+# Generate Client Secret
 
 ```js
 var jws = require('jws')
